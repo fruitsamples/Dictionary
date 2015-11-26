@@ -8,19 +8,17 @@ Simple CFDictionary example program, also showing property list functionality.
 ===========================================================================
 BUILD REQUIREMENTS:
 
-Xcode 3.1, Mac OS X 10.5
+Xcode 3.1 or l
 
 ===========================================================================
 RUNTIME REQUIREMENTS:
 
-Mac OS X v10.5 or later
+Xcode 3.2 or later, Mac OS X v10.6 or later
 
 ===========================================================================
 PACKAGING LIST:
 
-    ReadMe.txt              - this file
-    Dictionary.xcodeproj    - Xcode project file
-    DictionaryExample.c     - source file
+<< Describe important files here >>
 
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
